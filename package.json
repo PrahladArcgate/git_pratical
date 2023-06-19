@@ -1,0 +1,14 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Travelling Salesman_DSA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
