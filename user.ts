@@ -12,5 +12,13 @@ type User = {
     age: 23,
   };
   
+
+
+
+  const justine: User2 = {
+    name: 'prahlad',
+    age: 23,
+  };
+  
   const isJustineAnAdult: boolean = isAdult(justine);
   
